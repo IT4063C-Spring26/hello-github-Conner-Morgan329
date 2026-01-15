@@ -24,23 +24,23 @@ Make sure you follow the instructions carefully. You will be asked to complete a
 ## 💭 Reflection and Self Assessment
 
 **I learned:** (repeat as needed)
-- .
+- I learned how to clone a repo and commit/push changes from my local machine to the online repository
 
-**I struggled with:** (repeat as needed)
-- .
+**I struggled with:** 
+- My biggest struggle was setting up the foundation being github desktop and vs code to easily add, commit, and push changes.
 
 **I need the instructor to help me with:** (repeat as needed)
-- .
+- I didn't have access to the classroom for a minute till I wsa helped out.
 
-**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ ] out of 20.
+**💯 Self Grade:** For this assignment, based on my work and my reflections I should get [ 20] out of 20.
 
 
 ## 📚 References and Citations
 **I used the following links, books, and other resources in my work:** (repeat as needed)
-- .
+- I didn't use any links in my work
   
 **I received help from the following people:** (repeat as needed)
-- . 
+- Tony Dang
 
 ---
 ## Copyrights and License
